@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "name": "cursor",
+  "home": {
+    "home_env": [
+      "AGENTS_CONFIG_CURSOR_HOME"
+    ],
+    "home_default": ".cursor"
+  },
+  "skills": {
+    "base": "entry_home",
+    "target_subdir": "skills",
+    "names": [
+      "caveman-commit",
+      "planning"
+    ],
+    "disabled": []
+  },
+  "commands": {
+    "source_dir": ".cursor/commands",
+    "target_subdir": "commands",
+    "names": [
+      "commit",
+      "plan"
+    ],
+    "disabled": []
+  },
+  "agents": {
+    "target_subdir": "agents",
+    "names": [],
+    "disabled": []
+  }
+}

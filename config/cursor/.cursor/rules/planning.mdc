@@ -1,0 +1,9 @@
+---
+description: Planejamento de trabalho antes de implementar. Use quando pedirem plano, roadmap, decomposição em fases, replanejamento, ou diante de arquitetura, refatoração ampla, requisito ambíguo ou projeto novo.
+alwaysApply: false
+---
+
+# Planejamento
+
+Para planejar, leia e siga a skill `planning` (`~/.cursor/skills/planning/SKILL.md` após `make connect-cursor`, ou `.cursor/skills/planning/SKILL.md` se copiada para o projeto).
+Não use para correções pequenas e óbvias.

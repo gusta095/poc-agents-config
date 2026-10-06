@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+*.key
+*.pem

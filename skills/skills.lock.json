@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "caveman-commit": {
+      "origin": "upstream",
+      "repo": "https://github.com/juliusbrussee/caveman",
+      "path": null,
+      "ref": null,
+      "fetched": null,
+      "license": "Apache-2.0 OR MIT",
+      "local_changes": [
+        "description do SKILL.md com gatilhos em português",
+        "removida a instrução de trailer de coautoria e generalizada a regra de atribuição de ferramenta de IA",
+        "README.md: link relativo para o README do upstream substituído pela URL do upstream",
+        "NOTICE.md, LICENSE e LICENSE-MIT adicionados com crédito e licenças do upstream"
+      ],
+      "notes": [
+        "commit upstream não foi registrado na adoção; não comparada linha a linha com o upstream",
+        "versão de adoção desconhecida: LICENSE, LICENSE-MIT e crédito do NOTICE copiados da main do upstream, podem não corresponder à versão adotada; licença permanece \"Apache-2.0 OR MIT\""
+      ]
+    },
+    "planning": {
+      "origin": "own"
+    }
+  }
+}

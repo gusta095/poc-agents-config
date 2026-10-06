@@ -1,0 +1,9 @@
+---
+description: Padrão obrigatório para mensagens de commit
+alwaysApply: true
+---
+
+# Mensagens de commit
+
+Antes de qualquer `git commit`, leia e siga a skill `caveman-commit` (`~/.cursor/skills/caveman-commit/SKILL.md` após `make connect-cursor`, ou `.cursor/skills/caveman-commit/SKILL.md` se copiada para o projeto).
+Use a mensagem que essa skill produzir.
